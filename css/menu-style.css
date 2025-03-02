@@ -1,0 +1,1608 @@
+<!DOCTYPE html>
+<html data-wf-page="64ef783dd0e2fb098f834305" data-wf-site="64ef783ed0e2fb098f834306">
+<head>
+<meta charset="utf-8">
+<title>The War Room</title>
+<meta content="The War Room is a global network in which exemplars of individualism work to free the modern man from socially induced incarceration." name="description">
+<meta content="The War Room" property="og:title">
+<meta content="The War Room is a global network in which exemplars of individualism work to free the modern man from socially induced incarceration." property="og:description">
+<meta content="https://thewarroom.ag/images/tatepreview.png" property="og:image">
+<meta content="The War Room" property="twitter:title">
+<meta content="The War Room is a global network in which exemplars of individualism work to free the modern man from socially induced incarceration." property="twitter:description">
+<meta content="https://thewarroom.ag/images/tatepreview.png" property="twitter:image">
+<meta property="og:type" content="website">
+<meta content="summary_large_image" name="twitter:card">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<meta content="Webflow" name="generator">
+<link href="v2/css/normalize.css" rel="stylesheet" type="text/css">
+<link href="v2/css/webflow.css" rel="stylesheet" type="text/css">
+<link href="v2/css/the-war-room-7d548b4a1f22529c46a2b4aba8.webflow.css" rel="stylesheet" type="text/css">
+<style>@media (max-width:991px) and (min-width:768px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="a992ae9a-8c08-4370-5655-757ba184afb8"] {opacity:0;}}@media (max-width:767px) and (min-width:480px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="a992ae9a-8c08-4370-5655-757ba184afb8"] {opacity:0;}}@media (max-width:479px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="a992ae9a-8c08-4370-5655-757ba184afb8"] {opacity:0;}}</style>
+<link href="https://fonts.googleapis.com" rel="preconnect">
+<link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+<script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Plus Jakarta Sans:regular,700"]  }});</script>
+<script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+<link href="images/favicon.png" rel="shortcut icon" type="image/x-icon">
+<link href="images/webclip.png" rel="apple-touch-icon">
+
+<script>(function ( w, d, s, l, i ) {
+		w[l] = w[l] || [];
+		w[l].push( {
+			'gtm.start':
+				new Date().getTime(), event: 'gtm.js'
+		} );
+		var f = d.getElementsByTagName( s )[0],
+			j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+		j.async = true;
+		j.src =
+			'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+		f.parentNode.insertBefore( j, f );
+	})( window, document, 'script', 'dataLayer', 'GTM-KJL33CK' );</script>
+
+
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3593065,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/splidejs/4.1.4/css/splide-core.min.css" integrity="sha512-cSogJ0h5p3lhb//GYQRKsQAiwRku2tKOw/Rgvba47vg0+iOFrQ94iQbmAvRPF5+qkF8+gT7XBct233jFg1cBaQ==" crossorigin="anonymous" referrerpolicy="no-referrer">
+<style>
+.splide__track {
+	overflow: visible !important;
+}
+</style>
+</head>
+<body class="body">
+<div class="page-wrapper">
+<div class="main">
+<div class="grid-bg-wrap">
+<div class="container">
+<div class="grid-bg">
+<div class="line-grid-bg"></div>
+<div class="line-grid-bg"></div>
+<div class="line-grid-bg"></div>
+<div class="line-grid-bg"></div>
+<div class="line-grid-bg"></div>
+</div>
+</div>
+</div>
+<div data-animation="default" data-collapse="medium" data-duration="600" data-easing="ease-out-quad" data-easing2="ease" data-doc-height="1" role="banner" class="navbar w-nav">
+<div class="container nav">
+<a href="https://cobratate.com/" class="brand w-nav-brand"><img src="v2/images/Logo_1Logo.webp" loading="lazy" width="119.5" alt="Cobra Tate Logo"></a>
+<nav role="navigation" class="nav-menu w-nav-menu">
+<div class="div-block">
+<a href="https://jointherealworld.com/" class="nav-link w-inline-block">
+<div>The Real World</div>
+<div class="line-link"></div>
+</a>
+<a href="https://thewarroom.ag/" class="nav-link w-inline-block">
+<div>the war room</div>
+<div class="line-link"></div>
+</a>
+<a href="https://cobratate.com/41-tenets#tenet1" class="nav-link w-inline-block">
+<div>wisdom</div>
+<div class="line-link"></div>
+</a>
+<a href="https://cobratate.com/contact" class="nav-link w-inline-block">
+<div>Reach me</div>
+<div class="line-link"></div>
+</a>
+</div>
+</nav>
+<a href="https://thewarroom.ag/checkout" class="button nav w-button">JOIN US</a>
+<div data-w-id="25ee9da2-9b62-64ea-c482-937663a2fb77" class="menu-button w-nav-button">
+<div data-is-ix2-target="1" class="lottie-animation" data-w-id="eb2d662a-ece8-57df-91e0-5badd067bd2f" data-animation-type="lottie" data-src="v2/documents/Menu.json" data-loop="0" data-direction="1" data-autoplay="0" data-renderer="svg" data-default-duration="3" data-duration="0" data-ix2-initial-state="8"></div>
+</div>
+</div>
+</div>
+<section class="section is-hero">
+<div class="container">
+<div class="hero-content">
+<h1 data-w-id="31b9d676-b41a-37cd-8352-08e02b61d455" style="opacity:0">THE WAR ROOM</h1>
+<div data-w-id="a5f93a16-2f9c-a112-5a45-2d37ede83c18" style="opacity:0" class="text-title-hero">No Great Man in History became Exceptional <em class="bold-white">alone.</em></div>
+<div class="w-embed w-script">
+<script src="https://embed.cloudflarestream.com/embed/sdk.latest.js"></script>
+
+<script>
+  var Webflow = Webflow || [];
+  Webflow.push(function () {
+    const player = Stream(document.getElementById('main-video'));
+    // Function to restart video
+    function restartVideo() {
+    	console.log('restart');
+      player.currentTime = 0;
+      player.play();
+    }
+    //Function to toggle mute
+    function toggleMute() {
+    	if(player.muted === void(0)) player.muted = true;
+      if (player.muted) {
+        // Unmuted
+        player.volume = 1;
+        player.muted = false;
+      } else {
+        // Muted
+        player.volume = 0;
+        player.muted = true;
+      }
+    }
+    // Toggle mute/unmute and overlay display on click of the video overlay
+    $('#video-overlay').on("click", toggleMute);
+    // Restart the video when the video overlay is clicked
+    $('#video-overlay').on("click", restartVideo);
+  });
+</script>
+</div>
+<div class="w-embed">
+<style>
+	iframe{
+  	width:100%;
+    height: 100%;
+    display:block;
+  }
+  .video-clone-hero{
+  	aspect-ratio: 16/9;
+  }
+</style>
+</div>
+<div data-w-id="54df0af1-8972-58e1-08e7-e06bcad43816" style="opacity:0" class="video-clone-hero">
+<div id="video-container" class="rw-hero_video-wrapper">
+<div id="video-overlay" data-w-id="954eb3c0-f82b-9e24-56b7-654945400ec8" style="opacity:1;display:flex" class="black-overlay">
+<div id="play-icon" class="play-button"><img src="v2/images/pb.png" loading="lazy" alt class="play_button-image"></div>
+</div>
+<div class="video-embed-hero w-embed w-iframe"><iframe src="https://customer-29d3r31yjz332bf4.cloudflarestream.com/f6913712ba300c86eda19d0f18ef5b2e/iframe?muted=true&autoplay=true&poster=https%3A%2F%2Fcustomer-29d3r31yjz332bf4.cloudflarestream.com%2Ff6913712ba300c86eda19d0f18ef5b2e%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D%26height%3D600" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true" id="main-video"></iframe></div>
+</div>
+</div>
+<a data-w-id="a992ae9a-8c08-4370-5655-757ba184afb8" href="https://thewarroom.ag/checkout" class="button w-button">JOIN <strong class="boldblack">THE WAR ROOM</strong></a>
+<div class="w-layout-hflex hero-content-flex"><img class="hero-image" src="v2/images/Group44.png" width="593" alt style="opacity:0" sizes="(max-width: 479px) 100vw, (max-width: 767px) 430px, (max-width: 991px) 90vw, (max-width: 1439px) 45vw, 596.390625px" data-w-id="6f04c5ef-f9a8-06f1-e3cc-e843f72c451e" loading="lazy" srcset="v2/images/Group44-p-500.png 500w, v2/images/Group44.png 680w">
+<p data-w-id="62852c19-4b57-b25b-1e8e-3b293cba5e0d" style="opacity:0" class="p-hero"><span class="bold-white">99.9% of modern-day men will never experience the power of Brotherhood and Community.</span><br><br>They will never experience what it&#x27;s like to have other ambitious, hard working, diligent, and dutiful men at their side.<br><br>To experience being surrounded by <span class="bold-white">success stories,</span><br><br>To be among the <span class="bold-white">most energetic</span> and <span class="bold-white">lucky Men in the world.<br></span><br>Inside <span class="bold-white">The War Room</span> you will access <span class="bold-white">knowledge</span> that will spark your genius and compel you to <span class="bold-white">work your hardest</span> to keep up.<br><br>There is no other place on earth with Men of this caliber.</p>
+</div>
+<div class="scroll-wrap">
+<div class="lottie-scroll" data-w-id="b7e0e029-dde6-5653-d295-7fd3d4980b0a" data-animation-type="lottie" data-src="v2/documents/Scroll-Lottie-1.json" data-loop="1" data-direction="1" data-autoplay="1" data-is-ix2-target="0" data-renderer="svg" data-default-duration="12" data-duration="0"></div>
+<div class="text-16">Scroll for more</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container">
+<div class="where-wr-wrap">
+<div class="h2-wrap">
+<h2>WHERE IS THE WAR ROOM?</h2>
+<div class="h2-stroke">The War Room?</div>
+</div>
+<div class="w-layout-vflex h2-p-wrap">
+<div class="jakarta-40">Everywhere.</div>
+<div class="text-24">The globalization of the world has made it critical to <span class="bold-white">be a part of a world-spanning network.</span></div>
+</div>
+<div class="slider-wrap">
+<div id="Box60" class="splide">
+<div class="splide__track">
+<div class="splide__list">
+<div class="splide__slide"><img src="v2/images/Slider-Top01_1Slider-Top01.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members gathering on a Boat" srcset="v2/images/Slider-Top01_1-p-500.jpg 500w, v2/images/Slider-Top01_1-p-800.jpg 800w, v2/images/Slider-Top01_1Slider-Top01.webp 1072w" class="slider-top-image"></div>
+<div class="splide__slide"><img src="v2/images/The-War-Room-03_1The-War-Room-03.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members" srcset="v2/images/The-War-Room-03_1-p-500.jpg 500w, v2/images/The-War-Room-03_1-p-800.jpg 800w, v2/images/The-War-Room-03_1-p-1080.jpg 1080w, v2/images/The-War-Room-03_1-p-1600.jpg 1600w, v2/images/The-War-Room-03_1The-War-Room-03.webp 1752w" class="slider-top-image"></div>
+<div class="splide__slide"><img src="v2/images/The-War-Room-02_1The-War-Room-02.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members" srcset="v2/images/The-War-Room-02_1-p-500.jpg 500w, v2/images/The-War-Room-02_1-p-800.jpg 800w, v2/images/The-War-Room-02_1-p-1080.jpg 1080w, v2/images/The-War-Room-02_1-p-1600.jpg 1600w, v2/images/The-War-Room-02_1The-War-Room-02.webp 1810w" class="slider-top-image"></div>
+<div class="splide__slide"><img src="v2/images/Slider-Top03_1Slider-Top03.webp" loading="lazy" width="421" sizes="421px" alt="War Room members gathering" srcset="v2/images/Slider-Top03_1-p-500.jpg 500w, v2/images/Slider-Top03_1-p-800.jpg 800w, v2/images/Slider-Top03_1Slider-Top03.webp 842w" class="slider-top-image"></div>
+<div class="splide__slide"><img src="v2/images/Slider-Top02_1Slider-Top02.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members in a UFC training fight" srcset="v2/images/Slider-Top02_1-p-500.jpg 500w, v2/images/Slider-Top02_1-p-800.jpg 800w, v2/images/Slider-Top02_1Slider-Top02.webp 972w" class="slider-top-image"></div>
+</div>
+</div>
+</div>
+<div id="Box120" class="splide">
+<div class="splide__track">
+<div class="splide__list">
+<div class="splide__slide"><img src="v2/images/Slider-Bot01_1Slider-Bot01.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members gathering" srcset="v2/images/Slider-Bot01_1-p-500.jpg 500w, v2/images/Slider-Bot01_1-p-800.jpg 800w, v2/images/Slider-Bot01_1Slider-Bot01.webp 1072w" class="slider-top-image _50vw"></div>
+<div class="splide__slide"><img src="v2/images/The-War-Room-01_1The-War-Room-01.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members" srcset="v2/images/The-War-Room-01_1-p-500.jpg 500w, v2/images/The-War-Room-01_1-p-800.jpg 800w, v2/images/The-War-Room-01_1-p-1080.jpg 1080w, v2/images/The-War-Room-01_1-p-1600.jpg 1600w, v2/images/The-War-Room-01_1-p-2000.jpg 2000w, v2/images/The-War-Room-01_1The-War-Room-01.webp 2046w" class="slider-top-image _50vw"></div>
+<div class="splide__slide"><img src="v2/images/TWR-1.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members" srcset="v2/images/TWR-1-p-500.webp 500w, v2/images/TWR-1-p-800.webp 800w, v2/images/TWR-1-p-1080.webp 1080w, v2/images/TWR-1-p-1600.webp 1600w, v2/images/TWR-1-p-2000.webp 2000w, v2/images/TWR-1-p-2600.webp 2600w, v2/images/TWR-1-p-3200.webp 3200w, v2/images/TWR-1.webp 3840w" class="slider-top-image _50vw"></div>
+<div class="splide__slide"><img src="v2/images/TWR-2.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members" srcset="v2/images/TWR-2-p-500.webp 500w, v2/images/TWR-2-p-800.webp 800w, v2/images/TWR-2-p-1080.webp 1080w, v2/images/TWR-2-p-1600.webp 1600w, v2/images/TWR-2-p-2000.webp 2000w, v2/images/TWR-2-p-2600.webp 2600w, v2/images/TWR-2-p-3200.webp 3200w, v2/images/TWR-2.webp 3840w" class="slider-top-image _50vw"></div>
+<div class="splide__slide"><img src="v2/images/Slider-Bot02_1Slider-Bot02.webp" loading="lazy" width="600" sizes="(max-width: 479px) 100vw, 600px" alt="War Room members gathering on a Gym" srcset="v2/images/Slider-Bot02_1-p-500.jpg 500w, v2/images/Slider-Bot02_1-p-800.jpg 800w, v2/images/Slider-Bot02_1-p-1080.jpg 1080w, v2/images/Slider-Bot02_1-p-1600.jpg 1600w, v2/images/Slider-Bot02_1Slider-Bot02.webp 1814w" class="slider-top-image _50vw"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="many-p-wrap">
+<div class="small-line"></div>
+<p data-w-id="ef522d1b-58e1-c188-73fe-023e8a58c7cd" style="opacity:0" class="text-24"><span class="bold-white">Disinformation is rampant.</span> The Post-Truth era requires trusted eyes on the ground to accurately assess crises and opportunities.<br><br>In an <span class="bold-white">online, world-wide economy</span>, accurate local knowledge becomes extremely valuable, whether for <span class="bold-white">investment opportunities</span> or simply knowing the best place to live for you and your family.<br><br><span class="bold-white">The War Room</span> network gives you <span class="bold-white">access to thousands</span> of well trained eyes looking out for your interests. A <span class="bold-white">network</span> with wide-ranging perspectives and capabilities; each member aspiring and succeeding at becoming a <span class="bold-white">great man.</span></p>
+</div>
+<div class="dubai-flex-wrap">
+<div class="dubai-content-left"><img src="v2/images/Group15.jpg" loading="lazy" width="564" sizes="(max-width: 479px) 100vw, (max-width: 767px) 90vw, (max-width: 991px) 564px, (max-width: 1439px) 45vw, 564px" alt srcset="v2/images/Group15-p-500.jpg 500w, v2/images/Group15-p-800.jpg 800w, v2/images/Group15-p-1080.jpg 1080w, v2/images/Group15-p-1600.jpg 1600w, v2/images/Group15-p-2000.jpg 2000w, v2/images/Group15.jpg 2040w" class="dubai-image"></div>
+<div class="dubai-content-right">
+<div class="small-content-box">
+<div class="text-29"><span class="bold-white">Landed in Singapore and want to know what to look out for when investing in real estate?</span></div>
+<p class="text-24">Speak to a man who has been in Singapore Real Estate for <span class="bold-white">20 years.</span></p>
+</div>
+<div class="small-content-box">
+<div class="text-29"><span class="bold-white">Want to know how members of your business industry have found applications for AI?</span></div>
+<p class="text-24">Speak to an industry insider who knows the founder.</p>
+</div>
+<a href="https://thewarroom.ag/checkout" class="button w-button">JOIN <strong class="boldblack">THE WAR ROOM</strong></a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container">
+<div class="members-wrap">
+<div class="h2-wrap">
+<h2>WHO ARE OUR MEMBERS?</h2>
+<div class="h2-stroke">Our members?</div>
+</div>
+<div class="w-layout-vflex h2-p-wrap">
+<div class="jakarta-40">They were just like you - looking for something more.</div>
+<div class="text-24">And within <span class="bold-white">the War Room</span>, they found it.</div>
+</div><img class="image-members" src="v2/images/Members_1Members.webp" width="846" alt="War Room members gathering on a Boat" style="opacity:0" sizes="90vw" data-w-id="8d3d75c9-ec79-5492-821f-36a9e2df7f2c" loading="lazy" srcset="v2/images/Members_1-p-500.png 500w, v2/images/Members_1-p-800.png 800w, v2/images/Members_1-p-1080.png 1080w, v2/images/Members_1-p-1600.png 1600w, v2/images/Members_1-p-2000.png 2000w, v2/images/Members_1Members.webp 2390w">
+<div class="members-wrap">
+<div class="many-p-wrap">
+<div class="small-line"></div>
+<p data-w-id="0ee6e2aa-04e6-3f4a-c389-d3ba0811cf55" style="opacity:0" class="text-24"><span class="bold-white">Our ongoing Mission</span> is to ceaselessly empower Men like you,<br><br>To become the very best versions of themselves through <span class="bold-white">physical, mental, emotional, spiritual</span>, and <span class="bold-white">financial development</span>.</p>
+<div class="small-content-box">
+<div class="text-29"><span class="bold-white"><em>We hold that</em></span></div>
+<p class="text-24"><span class="bold-white">ALL Men should be strong, positive, law-abiding citizens</span> who are <span class="bold-white">reliable</span> and <span class="bold-white">dependable</span> for their families, friends, and communities.</p>
+</div>
+</div>
+<a href="https://thewarroom.ag/checkout" class="button w-button">JOIN <strong class="boldblack">THE WAR ROOM</strong></a>
+</div>
+</div>
+</div>
+</section>
+<section class="section hide">
+<div class="container">
+<div class="videos-section-wrap">
+<div class="h2-wrap">
+<h2>EXPERIENCE THE WAR ROOM</h2>
+<div class="h2-stroke">The War room?</div>
+</div>
+<div class="w-layout-vflex h2-p-wrap">
+<div class="text-24">The War Room isn’t just an online network. We host multiple <span class="bold-white">prestige events</span> across the world.</div>
+</div>
+<div class="videos-flex">
+<div id="w-node-cc2d5df7-b91e-4f13-fc9d-91819c73d0f7-8f834305" class="video-item">
+<div class="video-bg">
+<div class="video-clone">
+<div class="play w-embed"><svg width="420" height="420" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 22C6.477 22 2 17.523 2 12C2 6.477 6.477 2 12 2C17.523 2 22 6.477 22 12C22 17.523 17.523 22 12 22ZM10.622 8.415C10.5618 8.37485 10.4919 8.35177 10.4196 8.34822C10.3473 8.34467 10.2755 8.36079 10.2116 8.39486C10.1478 8.42893 10.0944 8.47967 10.0572 8.54168C10.0199 8.60369 10.0001 8.67465 10 8.747V15.253C10.0001 15.3253 10.0199 15.3963 10.0572 15.4583C10.0944 15.5203 10.1478 15.5711 10.2116 15.6051C10.2755 15.6392 10.3473 15.6553 10.4196 15.6518C10.4919 15.6482 10.5618 15.6252 10.622 15.585L15.501 12.333C15.5559 12.2965 15.6009 12.247 15.632 12.1889C15.6631 12.1308 15.6794 12.0659 15.6794 12C15.6794 11.9341 15.6631 11.8692 15.632 11.8111C15.6009 11.753 15.5559 11.7035 15.501 11.667L10.621 8.415H10.622Z" fill="currentColor"></path>
+</svg>
+</div>
+</div>
+</div>
+<div class="event-name">Event 1</div>
+<div class="location-wrap">
+<div class="icon-location w-embed"><svg viewbox="0 0 17 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5001 2.06655C12.9861 0.714533 10.9112 0 8.49954 0C6.08784 0 4.01302 0.714474 2.499 2.06655C0.865251 3.52571 0 5.65948 0 8.2347C0 10.4853 1.39399 13.6393 4.14297 17.612C5.41516 19.4418 6.78787 21.2042 8.25481 22.8915C8.31623 22.9604 8.40558 23 8.4996 23C8.59361 23 8.68297 22.9604 8.74438 22.8915C10.2114 21.2042 11.5841 19.4419 12.8562 17.612C15.6052 13.6393 17 10.4843 17 8.23548C17 5.65948 16.1349 3.52636 14.5002 2.06655H14.5001ZM8.49954 12.264C7.6769 12.264 6.87274 12.0277 6.18888 11.5849C5.50486 11.1421 4.97178 10.5127 4.65705 9.77636C4.34232 9.04002 4.25999 8.22978 4.42055 7.44803C4.58111 6.66641 4.97732 5.94841 5.5591 5.38481C6.14081 4.82131 6.88198 4.4376 7.68889 4.28228C8.49574 4.12687 9.33203 4.20687 10.0919 4.51194C10.8518 4.8171 11.5014 5.33373 11.9582 5.99649C12.4151 6.65928 12.6589 7.43838 12.6586 8.23534C12.6572 9.30355 12.2185 10.3275 11.4389 11.0827C10.6592 11.8379 9.60216 12.2626 8.49952 12.2638L8.49954 12.264Z" fill="#8F8F8F"></path>
+</svg></div>
+<div class="text-location">Dubai, UAE</div>
+</div>
+</div>
+<div id="w-node-_801bade6-5fec-3ad4-fdd6-c9d3f30df4b6-8f834305" class="video-item">
+<div class="video-bg">
+<div class="video-clone">
+<div class="play w-embed"><svg width="420" height="420" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 22C6.477 22 2 17.523 2 12C2 6.477 6.477 2 12 2C17.523 2 22 6.477 22 12C22 17.523 17.523 22 12 22ZM10.622 8.415C10.5618 8.37485 10.4919 8.35177 10.4196 8.34822C10.3473 8.34467 10.2755 8.36079 10.2116 8.39486C10.1478 8.42893 10.0944 8.47967 10.0572 8.54168C10.0199 8.60369 10.0001 8.67465 10 8.747V15.253C10.0001 15.3253 10.0199 15.3963 10.0572 15.4583C10.0944 15.5203 10.1478 15.5711 10.2116 15.6051C10.2755 15.6392 10.3473 15.6553 10.4196 15.6518C10.4919 15.6482 10.5618 15.6252 10.622 15.585L15.501 12.333C15.5559 12.2965 15.6009 12.247 15.632 12.1889C15.6631 12.1308 15.6794 12.0659 15.6794 12C15.6794 11.9341 15.6631 11.8692 15.632 11.8111C15.6009 11.753 15.5559 11.7035 15.501 11.667L10.621 8.415H10.622Z" fill="currentColor"></path>
+</svg>
+</div>
+</div>
+</div>
+<div class="event-name">Event 2</div>
+<div class="location-wrap">
+<div class="icon-location w-embed"><svg viewbox="0 0 17 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5001 2.06655C12.9861 0.714533 10.9112 0 8.49954 0C6.08784 0 4.01302 0.714474 2.499 2.06655C0.865251 3.52571 0 5.65948 0 8.2347C0 10.4853 1.39399 13.6393 4.14297 17.612C5.41516 19.4418 6.78787 21.2042 8.25481 22.8915C8.31623 22.9604 8.40558 23 8.4996 23C8.59361 23 8.68297 22.9604 8.74438 22.8915C10.2114 21.2042 11.5841 19.4419 12.8562 17.612C15.6052 13.6393 17 10.4843 17 8.23548C17 5.65948 16.1349 3.52636 14.5002 2.06655H14.5001ZM8.49954 12.264C7.6769 12.264 6.87274 12.0277 6.18888 11.5849C5.50486 11.1421 4.97178 10.5127 4.65705 9.77636C4.34232 9.04002 4.25999 8.22978 4.42055 7.44803C4.58111 6.66641 4.97732 5.94841 5.5591 5.38481C6.14081 4.82131 6.88198 4.4376 7.68889 4.28228C8.49574 4.12687 9.33203 4.20687 10.0919 4.51194C10.8518 4.8171 11.5014 5.33373 11.9582 5.99649C12.4151 6.65928 12.6589 7.43838 12.6586 8.23534C12.6572 9.30355 12.2185 10.3275 11.4389 11.0827C10.6592 11.8379 9.60216 12.2626 8.49952 12.2638L8.49954 12.264Z" fill="#8F8F8F"></path>
+</svg></div>
+<div class="text-location">Dubai, UAE</div>
+</div>
+</div>
+<div id="w-node-_201a2abe-a7f6-9ff8-4446-1619cf1c98e3-8f834305" class="video-item">
+<div class="video-bg">
+<div class="video-clone">
+<div class="play w-embed"><svg width="420" height="420" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 22C6.477 22 2 17.523 2 12C2 6.477 6.477 2 12 2C17.523 2 22 6.477 22 12C22 17.523 17.523 22 12 22ZM10.622 8.415C10.5618 8.37485 10.4919 8.35177 10.4196 8.34822C10.3473 8.34467 10.2755 8.36079 10.2116 8.39486C10.1478 8.42893 10.0944 8.47967 10.0572 8.54168C10.0199 8.60369 10.0001 8.67465 10 8.747V15.253C10.0001 15.3253 10.0199 15.3963 10.0572 15.4583C10.0944 15.5203 10.1478 15.5711 10.2116 15.6051C10.2755 15.6392 10.3473 15.6553 10.4196 15.6518C10.4919 15.6482 10.5618 15.6252 10.622 15.585L15.501 12.333C15.5559 12.2965 15.6009 12.247 15.632 12.1889C15.6631 12.1308 15.6794 12.0659 15.6794 12C15.6794 11.9341 15.6631 11.8692 15.632 11.8111C15.6009 11.753 15.5559 11.7035 15.501 11.667L10.621 8.415H10.622Z" fill="currentColor"></path>
+</svg>
+</div>
+</div>
+</div>
+<div class="event-name">Event 3</div>
+<div class="location-wrap">
+<div class="icon-location w-embed"><svg viewbox="0 0 17 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5001 2.06655C12.9861 0.714533 10.9112 0 8.49954 0C6.08784 0 4.01302 0.714474 2.499 2.06655C0.865251 3.52571 0 5.65948 0 8.2347C0 10.4853 1.39399 13.6393 4.14297 17.612C5.41516 19.4418 6.78787 21.2042 8.25481 22.8915C8.31623 22.9604 8.40558 23 8.4996 23C8.59361 23 8.68297 22.9604 8.74438 22.8915C10.2114 21.2042 11.5841 19.4419 12.8562 17.612C15.6052 13.6393 17 10.4843 17 8.23548C17 5.65948 16.1349 3.52636 14.5002 2.06655H14.5001ZM8.49954 12.264C7.6769 12.264 6.87274 12.0277 6.18888 11.5849C5.50486 11.1421 4.97178 10.5127 4.65705 9.77636C4.34232 9.04002 4.25999 8.22978 4.42055 7.44803C4.58111 6.66641 4.97732 5.94841 5.5591 5.38481C6.14081 4.82131 6.88198 4.4376 7.68889 4.28228C8.49574 4.12687 9.33203 4.20687 10.0919 4.51194C10.8518 4.8171 11.5014 5.33373 11.9582 5.99649C12.4151 6.65928 12.6589 7.43838 12.6586 8.23534C12.6572 9.30355 12.2185 10.3275 11.4389 11.0827C10.6592 11.8379 9.60216 12.2626 8.49952 12.2638L8.49954 12.264Z" fill="#8F8F8F"></path>
+</svg></div>
+<div class="text-location">Dubai, UAE</div>
+</div>
+</div>
+<div class="video-item">
+<div class="video-bg">
+<div class="video-clone">
+<div class="play w-embed"><svg width="420" height="420" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 22C6.477 22 2 17.523 2 12C2 6.477 6.477 2 12 2C17.523 2 22 6.477 22 12C22 17.523 17.523 22 12 22ZM10.622 8.415C10.5618 8.37485 10.4919 8.35177 10.4196 8.34822C10.3473 8.34467 10.2755 8.36079 10.2116 8.39486C10.1478 8.42893 10.0944 8.47967 10.0572 8.54168C10.0199 8.60369 10.0001 8.67465 10 8.747V15.253C10.0001 15.3253 10.0199 15.3963 10.0572 15.4583C10.0944 15.5203 10.1478 15.5711 10.2116 15.6051C10.2755 15.6392 10.3473 15.6553 10.4196 15.6518C10.4919 15.6482 10.5618 15.6252 10.622 15.585L15.501 12.333C15.5559 12.2965 15.6009 12.247 15.632 12.1889C15.6631 12.1308 15.6794 12.0659 15.6794 12C15.6794 11.9341 15.6631 11.8692 15.632 11.8111C15.6009 11.753 15.5559 11.7035 15.501 11.667L10.621 8.415H10.622Z" fill="currentColor"></path>
+</svg>
+</div>
+</div>
+</div>
+<div class="event-name">Event 4</div>
+<div class="location-wrap">
+<div class="icon-location w-embed"><svg viewbox="0 0 17 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5001 2.06655C12.9861 0.714533 10.9112 0 8.49954 0C6.08784 0 4.01302 0.714474 2.499 2.06655C0.865251 3.52571 0 5.65948 0 8.2347C0 10.4853 1.39399 13.6393 4.14297 17.612C5.41516 19.4418 6.78787 21.2042 8.25481 22.8915C8.31623 22.9604 8.40558 23 8.4996 23C8.59361 23 8.68297 22.9604 8.74438 22.8915C10.2114 21.2042 11.5841 19.4419 12.8562 17.612C15.6052 13.6393 17 10.4843 17 8.23548C17 5.65948 16.1349 3.52636 14.5002 2.06655H14.5001ZM8.49954 12.264C7.6769 12.264 6.87274 12.0277 6.18888 11.5849C5.50486 11.1421 4.97178 10.5127 4.65705 9.77636C4.34232 9.04002 4.25999 8.22978 4.42055 7.44803C4.58111 6.66641 4.97732 5.94841 5.5591 5.38481C6.14081 4.82131 6.88198 4.4376 7.68889 4.28228C8.49574 4.12687 9.33203 4.20687 10.0919 4.51194C10.8518 4.8171 11.5014 5.33373 11.9582 5.99649C12.4151 6.65928 12.6589 7.43838 12.6586 8.23534C12.6572 9.30355 12.2185 10.3275 11.4389 11.0827C10.6592 11.8379 9.60216 12.2626 8.49952 12.2638L8.49954 12.264Z" fill="#8F8F8F"></path>
+</svg></div>
+<div class="text-location">Dubai, UAE</div>
+</div>
+</div>
+<div class="video-item">
+<div class="video-bg">
+<div class="video-clone">
+<div class="play w-embed"><svg width="420" height="420" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 22C6.477 22 2 17.523 2 12C2 6.477 6.477 2 12 2C17.523 2 22 6.477 22 12C22 17.523 17.523 22 12 22ZM10.622 8.415C10.5618 8.37485 10.4919 8.35177 10.4196 8.34822C10.3473 8.34467 10.2755 8.36079 10.2116 8.39486C10.1478 8.42893 10.0944 8.47967 10.0572 8.54168C10.0199 8.60369 10.0001 8.67465 10 8.747V15.253C10.0001 15.3253 10.0199 15.3963 10.0572 15.4583C10.0944 15.5203 10.1478 15.5711 10.2116 15.6051C10.2755 15.6392 10.3473 15.6553 10.4196 15.6518C10.4919 15.6482 10.5618 15.6252 10.622 15.585L15.501 12.333C15.5559 12.2965 15.6009 12.247 15.632 12.1889C15.6631 12.1308 15.6794 12.0659 15.6794 12C15.6794 11.9341 15.6631 11.8692 15.632 11.8111C15.6009 11.753 15.5559 11.7035 15.501 11.667L10.621 8.415H10.622Z" fill="currentColor"></path>
+</svg>
+</div>
+</div>
+</div>
+<div class="event-name">Event 5</div>
+<div class="location-wrap">
+<div class="icon-location w-embed"><svg viewbox="0 0 17 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M14.5001 2.06655C12.9861 0.714533 10.9112 0 8.49954 0C6.08784 0 4.01302 0.714474 2.499 2.06655C0.865251 3.52571 0 5.65948 0 8.2347C0 10.4853 1.39399 13.6393 4.14297 17.612C5.41516 19.4418 6.78787 21.2042 8.25481 22.8915C8.31623 22.9604 8.40558 23 8.4996 23C8.59361 23 8.68297 22.9604 8.74438 22.8915C10.2114 21.2042 11.5841 19.4419 12.8562 17.612C15.6052 13.6393 17 10.4843 17 8.23548C17 5.65948 16.1349 3.52636 14.5002 2.06655H14.5001ZM8.49954 12.264C7.6769 12.264 6.87274 12.0277 6.18888 11.5849C5.50486 11.1421 4.97178 10.5127 4.65705 9.77636C4.34232 9.04002 4.25999 8.22978 4.42055 7.44803C4.58111 6.66641 4.97732 5.94841 5.5591 5.38481C6.14081 4.82131 6.88198 4.4376 7.68889 4.28228C8.49574 4.12687 9.33203 4.20687 10.0919 4.51194C10.8518 4.8171 11.5014 5.33373 11.9582 5.99649C12.4151 6.65928 12.6589 7.43838 12.6586 8.23534C12.6572 9.30355 12.2185 10.3275 11.4389 11.0827C10.6592 11.8379 9.60216 12.2626 8.49952 12.2638L8.49954 12.264Z" fill="#8F8F8F"></path>
+</svg></div>
+<div class="text-location">Dubai, UAE</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container">
+<div class="not-ready-wrap">
+<div class="h2-wrap">
+<h2>“I DON&#x27;T THINK I AM READY FOR THE WAR ROOM.”</h2>
+<div class="h2-stroke higher">Not ready???</div>
+</div>
+<div class="w-layout-hflex not-ready-content flip">
+<div data-w-id="a3d29fff-d015-ad9a-ea81-0f096fdf0f1f" style="opacity:0" class="not-ready-left">
+<p class="p-20"><span class="bold-white text-24">I want you to understand something.<br></span><br>‍<span class="bold-white">NONE </span>of you reading this are ready for the War Room.<br><br><span class="bold-white">NONE </span>of you reading this will truly revolutionize what we have inside.</p>
+<div class="text-32">If you had that capability, <span class="bold-white">we&#x27;d already know who you are..</span></div>
+</div>
+<div data-w-id="b90a4b86-f327-3630-f012-b1197ec30c9b" style="opacity:0" class="not-ready-right"><img src="v2/images/Not-Read_1Not-Read.webp" loading="lazy" width="584" sizes="(max-width: 991px) 90vw, 630px" alt="War Room members gathering on a Boat" srcset="v2/images/Not-Read_1-p-500.jpg 500w, v2/images/Not-Read_1Not-Read.webp 635w" class="image-not-ready"></div>
+</div>
+<div class="w-layout-hflex not-ready-content spacebetween">
+<div class="not-ready-right _45">
+<div data-w-id="7e7a4267-783d-1ce6-aefc-208df1420d19" style="opacity:0" class="text-32 center">You are left with only two options.</div>
+<div data-w-id="d9e8abd2-6c08-cfc7-8e97-155fb870edcd" style="opacity:0" class="hand-wrap top">
+<div class="text-hand">Try to become worthy <em class="bold-white">outside</em></div><img src="v2/images/blue-pill-hand.png" loading="lazy" alt class="image-2">
+</div>
+<div data-w-id="54ea3114-b69e-5ff9-6da9-9b9e9155d480" style="opacity:0" class="hand-wrap right">
+<div class="text-hand">Try to become worthy <span class="bold-white"><em>inside</em></span></div><img src="v2/images/red-pill-hand.png" loading="lazy" alt class="image-3">
+</div>
+</div>
+<div data-w-id="1b193bf6-9257-8dd7-bcbe-4b3b24996d12" style="opacity:0" class="not-ready-left _620">
+<div class="texts-24-wrap">
+<p class="text-24"><span class="bold-white"><strong>- You make 20k a month and have a business you are scaling?</strong></span></p>
+<p class="text-24"><span class="bold-white"><strong>- You make 2k a month and are working a job?</strong></span></p>
+</div>
+<p class="p-20">Those two levels of money are so similar, so close to each other, that it’s trivial to say there is ANY difference.<br><br>Money is EASY, TRIVIAL in the true realms of POWER.<br><br>You think $1 million is impressive??<br><br>NONE of you are worthy of the War Room<br>NONE of you are ready<br>No member has ever joined “ready”.</p>
+</div>
+</div>
+<a href="https://thewarroom.ag/checkout" class="button w-button">JOIN <strong class="boldblack">THE WAR ROOM</strong></a>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container">
+<div class="roads-wrap">
+<div class="h2-wrap">
+<h2>TWO ROADS AHEAD.</h2>
+<div class="h2-stroke">two roads</div>
+</div>
+<div data-w-id="473a6864-fc4e-392e-09ab-0f3cab498c56" style="opacity:0" class="w-layout-hflex roads-flex"><img src="v2/images/Roads_1Roads.webp" loading="lazy" width="531" sizes="(max-width: 767px) 90vw, 531px" alt="Andrew Tate and His Brother Tristan Tate and a member from the War Room" srcset="v2/images/Roads_1-p-500.jpg 500w, v2/images/Roads_1-p-800.jpg 800w, v2/images/Roads_1Roads.webp 1062w" class="roads">
+<p class="text-24 _580">Over the <span class="bold-white">last 4 years</span>, we have acquired connections for any capability, all over the world.<br><br>We have <span class="bold-white">over 3,500 members worldwide</span>, with <span class="bold-white">specialists, experts,</span> and <span class="bold-white">professionals in every field imaginable.<br><br>‍</span>All dedicated to the <span class="bold-white">pursuit of excellence in all areas of life.</span></p>
+<div class="small-line hidedesktop"></div>
+</div>
+<div data-w-id="21e08327-8205-8a70-f616-5e7c63c9c767" style="opacity:0" class="text-32 center">After learning all of this,<span class="bold-white"> you now have two possible versions of yourself.</span></div>
+<div class="w-layout-hflex _2-roads-flex">
+<div data-w-id="4d743bb5-0dc0-cc85-e84f-dff4cd418ce8" style="opacity:0" class="w-layout-vflex flex-block">
+<div class="icon-wrap">
+<div class="icon-embed-custom w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 54 54" fill="none" preserveaspectratio="xMidYMid meet" aria-hidden="true" role="img">
+<circle cx="27" cy="27" r="26" stroke="#386EF9" stroke-opacity="0.7" stroke-width="2"></circle>
+<path d="M26.3122 36V20.904H22.8562V18.12H29.5762V36H26.3122Z" fill="currentColor" fill-opacity="0.7"></path>
+</svg></div>
+</div>
+<p class="text-24">One who continues playing life alone, without a tribe, and without the means to truly make a difference in his life and others’.</p>
+</div>
+<div data-w-id="0e88836b-be4e-b88c-2a4d-b368adfd19a9" style="opacity:0" class="w-layout-vflex flex-block">
+<div class="glow-king"></div>
+<div class="icon-wrap">
+<div class="icon-embed-custom red w-embed"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 54 54" fill="none" preserveaspectratio="xMidYMid meet" aria-hidden="true" role="img">
+<circle cx="27" cy="27" r="26" stroke="#FF1616" stroke-width="2"></circle>
+<path d="M20.4438 35V32.528L25.2918 27.464C26.2518 26.456 26.9878 25.656 27.4998 25.064C28.0278 24.456 28.3958 23.936 28.6038 23.504C28.8118 23.072 28.9158 22.632 28.9158 22.184C28.9158 21.432 28.6758 20.84 28.1958 20.408C27.7318 19.976 27.1318 19.76 26.3958 19.76C25.6278 19.76 24.9638 19.984 24.4038 20.432C23.8438 20.864 23.4358 21.504 23.1798 22.352L20.3238 21.464C20.5158 20.52 20.9078 19.704 21.4998 19.016C22.0918 18.312 22.8118 17.776 23.6598 17.408C24.5238 17.024 25.4358 16.832 26.3958 16.832C27.5478 16.832 28.5558 17.04 29.4198 17.456C30.2998 17.872 30.9798 18.456 31.4598 19.208C31.9558 19.96 32.2038 20.84 32.2038 21.848C32.2038 22.488 32.0838 23.12 31.8438 23.744C31.6038 24.368 31.2438 25.008 30.7638 25.664C30.2838 26.304 29.6598 27.024 28.8918 27.824L24.6918 32.24H32.4438V35H20.4438Z" fill="currentColor"></path>
+</svg></div>
+</div>
+<p class="text-24"><span class="bold-white">Or one who understands that no great Man ever succeeded without a tribe.</span></p>
+</div>
+</div>
+<div data-w-id="67fc0f96-2492-3105-afaa-45dabcc984c3" style="opacity:0" class="jakarta-40 mb-64">WHICH VERSION WILL YOU PURSUE?</div>
+<a href="https://thewarroom.ag/checkout" class="button bigger w-button">JOIN <strong class="boldblack">THE WAR ROOM</strong></a>
+</div>
+</div>
+</section>
+<section class="section testimonial">
+<div class="container">
+<div class="testimonials-wrap">
+<div data-w-id="d5d61e23-1a4f-323a-cb44-b63eaa5957f0" style="opacity:0" class="jakarta-40 center">WHAT OUR MEMBERS HAVE ACHIEVED.</div>
+<div class="w-layout-grid gallery-wrapper">
+<div id="w-node-c895839e-6702-8980-2151-212066ea9035-8f834305" class="w-layout-grid grid">
+<a href="#" id="w-node-a1f07a67-c491-b29f-20b4-b68b2e2e2ffb-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-58_1Testimonial-58.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-58_1-p-500.png 500w, v2/images/Testimonial-58_1Testimonial-58.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 58.png",
+      "fileName": "Testimonial 58.png",
+      "fileSize": 225416,
+      "height": 426,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b84357a24b97af5ea42f_Testimonial%2058.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_36fb2616-21d5-555c-a6c9-f887b90a05f5-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-60_1Testimonial-60.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-60_1-p-500.png 500w, v2/images/Testimonial-60_1Testimonial-60.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 60.png",
+      "fileName": "Testimonial 60.png",
+      "fileSize": 394082,
+      "height": 832,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b84255c146fb056a757a_Testimonial%2060.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_530e7c62-7ebc-eb60-57e8-32c3d8be812e-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-52_1Testimonial-52.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-52_1-p-500.png 500w, v2/images/Testimonial-52_1Testimonial-52.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 52.png",
+      "fileName": "Testimonial 52.png",
+      "fileSize": 253838,
+      "height": 378,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b842d75d4d2bc3ccc513_Testimonial%2052.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_903beeb9-cb24-d434-baf7-b816df908a7a-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-59_1Testimonial-59.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-59_1-p-500.png 500w, v2/images/Testimonial-59_1Testimonial-59.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 59.png",
+      "fileName": "Testimonial 59.png",
+      "fileSize": 425832,
+      "height": 676,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b8429857b3db1c6e8ba6_Testimonial%2059.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_2e5c8793-92c2-8ef4-c4e4-4fd79d19267d-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-55_1Testimonial-55.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-55_1-p-500.png 500w, v2/images/Testimonial-55_1Testimonial-55.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 55.png",
+      "fileName": "Testimonial 55.png",
+      "fileSize": 319600,
+      "height": 779,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b842e7fb0564f4098e29_Testimonial%2055.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-d41d59eb-4b6b-7ab3-5ecb-6a04f241dffe-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-53_1Testimonial-53.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-53_1-p-500.png 500w, v2/images/Testimonial-53_1Testimonial-53.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 53.png",
+      "fileName": "Testimonial 53.png",
+      "fileSize": 178073,
+      "height": 462,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b842ef0b37fc8975c85d_Testimonial%2053.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-efeda83f-a06b-052c-c2b7-403d0ede1ee4-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-45_1Testimonial-45.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-45_1-p-500.png 500w, v2/images/Testimonial-45_1Testimonial-45.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 45.png",
+      "fileName": "Testimonial 45.png",
+      "fileSize": 288303,
+      "height": 655,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b840cf6d73d10551be9e_Testimonial%2045.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_2f1d3d11-18dc-0a02-9822-532186aa2dd2-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-42_1Testimonial-42.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-42_1-p-500.png 500w, v2/images/Testimonial-42_1Testimonial-42.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 42.png",
+      "fileName": "Testimonial 42.png",
+      "fileSize": 348616,
+      "height": 648,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b84057a24b97af5ea020_Testimonial%2042.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-ea5e2838-e650-166c-d208-1d47077e895c-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-29_1Testimonial-29.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-29_1-p-500.png 500w, v2/images/Testimonial-29_1Testimonial-29.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 29.png",
+      "fileName": "Testimonial 29.png",
+      "fileSize": 226959,
+      "height": 1034,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b840f6b6b7379ecc02c5_Testimonial%2029.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_3c73b3cc-ffc9-cb1b-cddd-11f26579d88e-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-33_1Testimonial-33.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-33_1-p-500.png 500w, v2/images/Testimonial-33_1Testimonial-33.webp 570w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 33.png",
+      "fileName": "Testimonial 33.png",
+      "fileSize": 531545,
+      "height": 918,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b840855e91393bdddf4a_Testimonial%2033.png",
+      "width": 570,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_8cdacef4-e052-5958-598e-d935aff1a72e-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-43_1Testimonial-43.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-43_1-p-500.png 500w, v2/images/Testimonial-43_1Testimonial-43.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 43.png",
+      "fileName": "Testimonial 43.png",
+      "fileSize": 140888,
+      "height": 316,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b8400d0588d5ea21815c_Testimonial%2043.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-f1d2c6f8-1909-ec19-ef37-b3d51b7b8558-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-41_1Testimonial-41.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-41_1-p-500.png 500w, v2/images/Testimonial-41_1Testimonial-41.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 41.png",
+      "fileName": "Testimonial 41.png",
+      "fileSize": 339684,
+      "height": 637,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b840aa5fce298551f053_Testimonial%2041.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_646266c5-42b9-b726-311d-fb4e985e81e3-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-27_1Testimonial-27.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-27_1-p-500.png 500w, v2/images/Testimonial-27_1Testimonial-27.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 27.png",
+      "fileName": "Testimonial 27.png",
+      "fileSize": 233597,
+      "height": 1014,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83ecf6d73d10551bb72_Testimonial%2027.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_938c9f0f-9317-3f37-5a3c-9281d49fad17-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-22_1Testimonial-22.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-22_1-p-500.png 500w, v2/images/Testimonial-22_1Testimonial-22.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 22.png",
+      "fileName": "Testimonial 22.png",
+      "fileSize": 159788,
+      "height": 700,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83e422dc93da993bde3_Testimonial%2022.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_12bb5bbb-e25a-2cdd-2d8f-78f2e4d9ac03-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-28_1Testimonial-28.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-28_1-p-500.png 500w, v2/images/Testimonial-28_1Testimonial-28.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 28.png",
+      "fileName": "Testimonial 28.png",
+      "fileSize": 203330,
+      "height": 758,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83dca4beef8379dbfbc_Testimonial%2028.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_32fbb1e4-29b9-3b49-ad55-3fca5d5fcd4f-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-24_1Testimonial-24.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-24_1-p-500.png 500w, v2/images/Testimonial-24_1Testimonial-24.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 24.png",
+      "fileName": "Testimonial 24.png",
+      "fileSize": 326455,
+      "height": 991,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83daa5fce298551ecc2_Testimonial%2024.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_4b8bb765-b0e8-e41b-18f7-f95428824374-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-20_1Testimonial-20.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-20_1-p-500.png 500w, v2/images/Testimonial-20_1Testimonial-20.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 20.png",
+      "fileName": "Testimonial 20.png",
+      "fileSize": 201682,
+      "height": 831,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83d5d78d863423bc02a_Testimonial%2020.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-ba12d9df-1009-4432-f1a2-48efb33852c0-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-18_1Testimonial-18.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-18_1-p-500.png 500w, v2/images/Testimonial-18_1Testimonial-18.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 18.png",
+      "fileName": "Testimonial 18.png",
+      "fileSize": 367672,
+      "height": 721,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83cb5b7d725111f001c_Testimonial%2018.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-bffb88d0-6997-cfb5-7f47-d682afa995aa-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-06_1Testimonial-06.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-06_1-p-500.png 500w, v2/images/Testimonial-06_1Testimonial-06.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 06.png",
+      "fileName": "Testimonial 06.png",
+      "fileSize": 336243,
+      "height": 781,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b1499df3677d78510_Testimonial%2006.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_65c480e7-fee8-c628-7801-3f8c4e7c0917-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-14_1Testimonial-14.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-14_1-p-500.png 500w, v2/images/Testimonial-14_1Testimonial-14.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 14.png",
+      "fileName": "Testimonial 14.png",
+      "fileSize": 173455,
+      "height": 690,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b1e5befff98e85666_Testimonial%2014.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+</div>
+<div id="w-node-_6ba6fbde-a00d-64ae-4f37-71b17a5d84f6-8f834305" class="w-layout-grid grid">
+<a href="#" id="w-node-_6ba6fbde-a00d-64ae-4f37-71b17a5d84f7-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-61_1Testimonial-61.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-61_1-p-500.png 500w, v2/images/Testimonial-61_1Testimonial-61.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 61.png",
+      "fileName": "Testimonial 61.png",
+      "fileSize": 433851,
+      "height": 577,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b842982204532d464da6_Testimonial%2061.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_6ba6fbde-a00d-64ae-4f37-71b17a5d84f9-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-62_1Testimonial-62.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-62_1-p-500.png 500w, v2/images/Testimonial-62_1Testimonial-62.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 62.png",
+      "fileName": "Testimonial 62.png",
+      "fileSize": 253474,
+      "height": 604,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b841982204532d464d7b_Testimonial%2062.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_6ba6fbde-a00d-64ae-4f37-71b17a5d84fb-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-51_1Testimonial-51.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-51_1-p-500.png 500w, v2/images/Testimonial-51_1Testimonial-51.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 51.png",
+      "fileName": "Testimonial 51.png",
+      "fileSize": 437172,
+      "height": 825,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b841855e91393bdde0ba_Testimonial%2051.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_6ba6fbde-a00d-64ae-4f37-71b17a5d84fd-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-54_1Testimonial-54.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-54_1-p-500.png 500w, v2/images/Testimonial-54_1Testimonial-54.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 54.png",
+      "fileName": "Testimonial 54.png",
+      "fileSize": 351388,
+      "height": 743,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b841f79fbb961128fe4d_Testimonial%2054.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_6ba6fbde-a00d-64ae-4f37-71b17a5d84ff-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-49_1Testimonial-49.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-49_1-p-500.png 500w, v2/images/Testimonial-49_1Testimonial-49.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 49.png",
+      "fileName": "Testimonial 49.png",
+      "fileSize": 275546,
+      "height": 495,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b841422dc93da993c104_Testimonial%2049.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_35c9e2f5-d24a-8d35-1395-e948a5657fe2-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-57_1Testimonial-57.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-57_1-p-500.png 500w, v2/images/Testimonial-57_1Testimonial-57.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 57.png",
+      "fileName": "Testimonial 57.png",
+      "fileSize": 196103,
+      "height": 365,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b841a2c739f5188862eb_Testimonial%2057.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_5333fd49-df4d-3137-5619-edf3c026b171-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-38_1Testimonial-38.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-38_1-p-500.png 500w, v2/images/Testimonial-38_1Testimonial-38.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 38.png",
+      "fileName": "Testimonial 38.png",
+      "fileSize": 504272,
+      "height": 777,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83f982204532d464c1b_Testimonial%2038.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-eb8a8bea-2e00-1ed5-1636-02402dfcbc09-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-37_1Testimonial-37.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-37_1-p-500.png 500w, v2/images/Testimonial-37_1Testimonial-37.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 37.png",
+      "fileName": "Testimonial 37.png",
+      "fileSize": 376120,
+      "height": 652,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83fef0b37fc8975c12e_Testimonial%2037.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_25d46495-e665-b0cd-3e1f-72b5959fd69e-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-39_1Testimonial-39.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-39_1-p-500.png 500w, v2/images/Testimonial-39_1Testimonial-39.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 39.png",
+      "fileName": "Testimonial 39.png",
+      "fileSize": 292080,
+      "height": 733,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83f0e8cc9ce53619cbc_Testimonial%2039.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_09964d66-9ba4-bb36-86b1-3fa8117cb353-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-26_1Testimonial-26.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-26_1-p-500.png 500w, v2/images/Testimonial-26_1Testimonial-26.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 26.png",
+      "fileName": "Testimonial 26.png",
+      "fileSize": 452394,
+      "height": 1032,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83f0e8cc9ce53619c98_Testimonial%2026.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_64c572e6-cb34-63e3-1852-2e3cfcaedbb5-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-40_1Testimonial-40.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-40_1-p-500.png 500w, v2/images/Testimonial-40_1Testimonial-40.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 40.png",
+      "fileName": "Testimonial 40.png",
+      "fileSize": 215885,
+      "height": 717,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83fb2c6bec6639f801f_Testimonial%2040.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-f9264a3a-68d6-e7bc-f1cc-f3b76425aedd-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-32_1Testimonial-32.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-32_1-p-500.png 500w, v2/images/Testimonial-32_1Testimonial-32.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 32.png",
+      "fileName": "Testimonial 32.png",
+      "fileSize": 314864,
+      "height": 545,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83f5d78d863423bc291_Testimonial%2032.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_40da32cf-4450-04de-5eb0-adbdec14f070-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-10_1Testimonial-10.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-10_1-p-500.png 500w, v2/images/Testimonial-10_1Testimonial-10.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 10.png",
+      "fileName": "Testimonial 10.png",
+      "fileSize": 356625,
+      "height": 565,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83cf22584b729ce51b3_Testimonial%2010.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_6488d128-0298-7060-8b30-e9f227d1e664-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-03_1Testimonial-03.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-03_1-p-500.png 500w, v2/images/Testimonial-03_1Testimonial-03.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 03.png",
+      "fileName": "Testimonial 03.png",
+      "fileSize": 538899,
+      "height": 1053,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83c55c146fb056a6f6b_Testimonial%2003.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-b26946d2-b161-1a74-8ffc-282db5cc47d5-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-11_1Testimonial-11.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-11_1-p-500.png 500w, v2/images/Testimonial-11_1Testimonial-11.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 11.png",
+      "fileName": "Testimonial 11.png",
+      "fileSize": 484388,
+      "height": 760,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b9de821b8405baae5_Testimonial%2011.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-c1e636dc-fa71-8098-9dc0-902ba3ed3dc5-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-08_1Testimonial-08.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-08_1-p-500.png 500w, v2/images/Testimonial-08_1Testimonial-08.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 08.png",
+      "fileName": "Testimonial 08.png",
+      "fileSize": 409005,
+      "height": 755,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83be7fb0564f4098302_Testimonial%2008.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_8a99fd59-aafb-9683-bc4b-05df16518006-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-13_1Testimonial-13.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-13_1-p-500.png 500w, v2/images/Testimonial-13_1Testimonial-13.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 13.png",
+      "fileName": "Testimonial 13.png",
+      "fileSize": 420826,
+      "height": 735,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b57a24b97af5e9ae8_Testimonial%2013.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_054ae666-cbdf-bc4b-a3a4-c801d23fd122-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-17_1Testimonial-17.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-17_1-p-500.png 500w, v2/images/Testimonial-17_1Testimonial-17.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 17.png",
+      "fileName": "Testimonial 17.png",
+      "fileSize": 287734,
+      "height": 475,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b9403cd34f32fa344_Testimonial%2017.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_4dca702a-c4c1-2d3b-be41-ce645989a8b5-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-12_1Testimonial-12.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-12_1-p-500.png 500w, v2/images/Testimonial-12_1Testimonial-12.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 12.png",
+      "fileName": "Testimonial 12.png",
+      "fileSize": 235464,
+      "height": 591,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b584de81b498260ba_Testimonial%2012.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-f1d7de8d-e205-b3f4-e5e3-ef15dc765621-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-23_1Testimonial-23.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-23_1-p-500.png 500w, v2/images/Testimonial-23_1Testimonial-23.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 23.png",
+      "fileName": "Testimonial 23.png",
+      "fileSize": 217855,
+      "height": 935,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83bfb2926022fcd8901_Testimonial%2023.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+</div>
+<div id="w-node-c016bd4d-dc47-c548-5325-690663b82b61-8f834305" class="w-layout-grid grid">
+<a href="#" id="w-node-c016bd4d-dc47-c548-5325-690663b82b62-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-56_1Testimonial-56.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-56_1-p-500.png 500w, v2/images/Testimonial-56_1Testimonial-56.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 56.png",
+      "fileName": "Testimonial 56.png",
+      "fileSize": 279499,
+      "height": 563,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b84157a24b97af5ea0d5_Testimonial%2056.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_9f17cfe7-f876-d9b1-6416-a6e9c3534cab-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-44_1Testimonial-44.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-44_1-p-500.png 500w, v2/images/Testimonial-44_1Testimonial-44.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 44.png",
+      "fileName": "Testimonial 44.png",
+      "fileSize": 189539,
+      "height": 571,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b8413e3fd8bd640e2382_Testimonial%2044.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-fd53e2ff-ba2b-f7ce-76c6-ff301679cc85-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-48_1Testimonial-48.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-48_1-p-500.png 500w, v2/images/Testimonial-48_1Testimonial-48.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 48.png",
+      "fileName": "Testimonial 48.png",
+      "fileSize": 147709,
+      "height": 333,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b841e7fb0564f4098d59_Testimonial%2048.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_51783b4c-4824-b4c3-4f4a-9f2e12d9ca3d-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-47_1Testimonial-47.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-47_1-p-500.png 500w, v2/images/Testimonial-47_1Testimonial-47.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 47.png",
+      "fileName": "Testimonial 47.png",
+      "fileSize": 283599,
+      "height": 798,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b8410e8cc9ce53619e3d_Testimonial%2047.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-fd2ec25a-0db6-24ca-2bed-5a06849b5098-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-46_1Testimonial-46.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-46_1-p-500.png 500w, v2/images/Testimonial-46_1Testimonial-46.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 46.png",
+      "fileName": "Testimonial 46.png",
+      "fileSize": 242360,
+      "height": 481,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b841e961ce720a4cef57_Testimonial%2046.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-fa754935-30b8-85f8-1b51-8245c72db912-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-50_1Testimonial-50.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-50_1-p-500.png 500w, v2/images/Testimonial-50_1Testimonial-50.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 50.png",
+      "fileName": "Testimonial 50.png",
+      "fileSize": 275013,
+      "height": 507,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b841d1b19e81e88bf3c3_Testimonial%2050.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-eda7cb15-d0dd-86b4-5a14-a6dac4fdce8d-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-35_1Testimonial-35.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-35_1-p-500.png 500w, v2/images/Testimonial-35_1Testimonial-35.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 35.png",
+      "fileName": "Testimonial 35.png",
+      "fileSize": 540992,
+      "height": 924,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83f80b6269c538253e6_Testimonial%2035.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-d2890b13-6471-558f-1597-3a0cb816b881-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-34_1Testimonial-34.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-34_1-p-500.png 500w, v2/images/Testimonial-34_1Testimonial-34.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 34.png",
+      "fileName": "Testimonial 34.png",
+      "fileSize": 434862,
+      "height": 813,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83eef0b37fc8975c062_Testimonial%2034.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_274874c3-4e86-3b14-d96c-6155d11cd200-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-02_1Testimonial-02.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-02_1-p-500.png 500w, v2/images/Testimonial-02_1Testimonial-02.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 02.png",
+      "fileName": "Testimonial 02.png",
+      "fileSize": 244800,
+      "height": 613,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83bf152c6a4c0e63026_Testimonial%2002.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_0664d26a-a224-5bfe-72a9-821dd61f3dd0-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-30_1Testimonial-30.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-30_1-p-500.png 500w, v2/images/Testimonial-30_1Testimonial-30.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 30.png",
+      "fileName": "Testimonial 30.png",
+      "fileSize": 233022,
+      "height": 824,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83e55c146fb056a722e_Testimonial%2030.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_77862dc8-b84c-ef0b-5111-fe6d61367c50-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-36_1Testimonial-36.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-36_1-p-500.png 500w, v2/images/Testimonial-36_1Testimonial-36.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 36.png",
+      "fileName": "Testimonial 36.png",
+      "fileSize": 151895,
+      "height": 306,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83ea9b5e483af1c405f_Testimonial%2036.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_7fc1878c-173b-bb3b-b75e-1b13f14dfdbe-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-25_1Testimonial-25.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-25_1-p-500.png 500w, v2/images/Testimonial-25_1Testimonial-25.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 25.png",
+      "fileName": "Testimonial 25.png",
+      "fileSize": 307740,
+      "height": 898,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83e422dc93da993bf05_Testimonial%2025.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_101fbd79-8a97-c7c8-51cd-6a15dd88a18c-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-31_1Testimonial-31.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-31_1-p-500.png 500w, v2/images/Testimonial-31_1Testimonial-31.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 31.png",
+      "fileName": "Testimonial 31.png",
+      "fileSize": 306434,
+      "height": 872,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83e50f5128b39c4d115_Testimonial%2031.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_5ca3630c-129c-64a4-871d-516db4bf7566-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-16_1Testimonial-16.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-16_1-p-500.png 500w, v2/images/Testimonial-16_1Testimonial-16.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 16.png",
+      "fileName": "Testimonial 16.png",
+      "fileSize": 391509,
+      "height": 610,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83bfb2926022fcd8a0f_Testimonial%2016.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-c00e12c5-b2b4-f9aa-05e4-2bb1f74449c9-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-05_1Testimonial-05.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-05_1-p-500.png 500w, v2/images/Testimonial-05_1Testimonial-05.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 05.png",
+      "fileName": "Testimonial 05.png",
+      "fileSize": 364291,
+      "height": 862,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83bceb80a1aa69dec98_Testimonial%2005.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_7b922773-6dea-b212-522c-c99d2af6f5fe-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-04_1Testimonial-04.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-04_1-p-500.png 500w, v2/images/Testimonial-04_1Testimonial-04.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 04.png",
+      "fileName": "Testimonial 04.png",
+      "fileSize": 314414,
+      "height": 742,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b1286ba4e396e0c18_Testimonial%2004.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_05cbef53-8242-1488-15c6-db5f42fb6390-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-15_1Testimonial-15.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-15_1-p-500.png 500w, v2/images/Testimonial-15_1Testimonial-15.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 15.png",
+      "fileName": "Testimonial 15.png",
+      "fileSize": 295874,
+      "height": 741,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b9403cd34f32fa2f1_Testimonial%2015.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_91acd476-49f9-2cfb-8fa4-6efe07dd8911-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-21_1Testimonial-21.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-21_1-p-500.png 500w, v2/images/Testimonial-21_1Testimonial-21.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 21.png",
+      "fileName": "Testimonial 21.png",
+      "fileSize": 337496,
+      "height": 678,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b9de821b8405baa1e_Testimonial%2021.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-dbc5dacc-c667-ee92-de5a-fe04dd1372bb-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-09_1Testimonial-09.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-09_1-p-500.png 500w, v2/images/Testimonial-09_1Testimonial-09.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 09.png",
+      "fileName": "Testimonial 09.png",
+      "fileSize": 344165,
+      "height": 660,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83bfb2926022fcd89b8_Testimonial%2009.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_4933b699-4bc9-6025-0fee-ab4e3fe54fb8-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-07_1Testimonial-07.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-07_1-p-500.png 500w, v2/images/Testimonial-07_1Testimonial-07.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 07.png",
+      "fileName": "Testimonial 07.png",
+      "fileSize": 148158,
+      "height": 333,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83b57a24b97af5e9a18_Testimonial%2007.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_3fbe333e-563d-de35-a71e-46fd1a4dd3d3-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-01_1Testimonial-01.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-01_1-p-500.png 500w, v2/images/Testimonial-01_1Testimonial-01.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 01.png",
+      "fileName": "Testimonial 01.png",
+      "fileSize": 208224,
+      "height": 562,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83baad2c3e28f1c2463_Testimonial%2001.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+<a href="#" id="w-node-_0b42f5ef-0273-5cb1-3ee1-180d9b4a999d-8f834305" class="lightbox-link w-inline-block w-lightbox"><img src="v2/images/Testimonial-19_1Testimonial-19.webp" loading="lazy" width="290" sizes="(max-width: 479px) 90vw, (max-width: 991px) 43vw, 29vw" alt srcset="v2/images/Testimonial-19_1-p-500.png 500w, v2/images/Testimonial-19_1Testimonial-19.webp 580w" class="testimonial-image">
+<script type="application/json" class="w-json">{
+  "items": [
+    {
+      "_id": "example_img",
+      "origFileName": "Testimonial 19.png",
+      "fileName": "Testimonial 19.png",
+      "fileSize": 68909,
+      "height": 329,
+      "url": "https://uploads-ssl.webflow.com/64b054075abe0ae621869a4d/64c2b83a0d0588d5ea217cb1_Testimonial%2019.png",
+      "width": 580,
+      "type": "image"
+    }
+  ],
+  "group": "Testimonial"
+}</script>
+</a>
+</div>
+</div>
+<div data-w-id="d019bd36-10dd-72fd-8f39-03e22a3ee6c9" style="opacity:0" class="button-wrap-bottom">
+<div class="line-button"></div>
+<a href="https://thewarroom.ag/checkout" class="button w-button">JOIN <strong class="boldblack">THE WAR ROOM</strong></a>
+<div class="line-button"></div>
+</div>
+</div>
+</div>
+</section>
+<footer class="section footer">
+<div class="container">
+<div class="footer-wrap">
+<a href="https://cobratate.com/" class="w-inline-block"><img src="v2/images/Logo_1Logo.webp" loading="lazy" width="125" alt="Cobra Tate Logo"></a>
+<div class="footer-links">
+<div class="link-16">Legal</div>
+<a href="https://cobratate.com/refund-policy" class="footer-link">Refund policy</a>
+<a href="https://cobratate.com/privacy-policy" class="footer-link">Privacy policy</a>
+<a href="https://cobratate.com/terms-conditions" class="footer-link">Terms &amp; Conditionss</a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64ef783ed0e2fb098f834306" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+<script src="v2/js/twrwebflow.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/splidejs/4.1.4/js/splide.min.js" integrity="sha512-4TcjHXQMLM7Y6eqfiasrsnRCc8D/unDeY1UGKGgfwyLUCTsHYMxF7/UHayjItKQKIoP6TTQ6AMamb9w2GMAvNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="
+https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-auto-scroll@0.5.3/dist/js/splide-extension-auto-scroll.min.js
+"></script>
+<script src="
+https://cdn.jsdelivr.net/npm/@splidejs/splide-extension-intersection@0.2.0/dist/js/splide-extension-intersection.min.js
+"></script>
+<script>
+function logos() {
+let splides = $('#Box60');
+for ( let i = 0, splideLength = splides.length; i < splideLength; i++ ) {
+	new Splide( splides[ i ], {
+  autoWidth: true,
+  arrows: false,
+  pagination: false,
+  focus: 'center',
+  direction: 'ltr',
+  gap: '0rem',
+  type: 'loop',
+  autoScroll: {
+    autoStart: true,
+    speed: 0.6,
+  },
+  intersection: {
+    inView: {
+      autoScroll: true,
+    },
+    outView: {
+      autoScroll: false,
+    },
+    breakpoints: {
+    767: {
+    speed: 10,
+		},
+    479: {
+    	// Mobile Portrait
+			perPage: 1,
+  		autoScroll: {
+    		autoStart: true,
+   			 speed: 10,
+  		}
+		}
+	}
+ }
+} ).mount( window.splide.Extensions );
+}
+}
+logos();
+</script>
+<script>
+function logos() {
+let splides = $('#Box120');
+for ( let i = 0, splideLength = splides.length; i < splideLength; i++ ) {
+	new Splide( splides[ i ], {
+  autoWidth: true,
+  arrows: false,
+  pagination: false,
+  focus: 'center',
+  direction: 'rtl',
+  gap: '0rem',
+  type: 'loop',
+  autoScroll: {
+    autoStart: true,
+    speed: 0.5,
+  },
+  intersection: {
+    inView: {
+      autoScroll: true,
+    },
+    outView: {
+      autoScroll: false,
+    },
+   }
+} ).mount( window.splide.Extensions );
+}
+}
+logos();
+</script>
+<script>
+  window.intercomSettings = {
+    api_base: "https://api-iam.intercom.io",
+    app_id: "lnixqwsm"
+  };
+</script>
+<script>
+  // We pre-filled your app ID in the widget URL: 'https://widget.intercom.io/widget/lnixqwsm'
+  (function () { var w = window; var ic = w.Intercom; if (typeof ic === "function") { ic('reattach_activator'); ic('update', w.intercomSettings); } else { var d = document; var i = function () { i.c(arguments); }; i.q = []; i.c = function (args) { i.q.push(args); }; w.Intercom = i; var l = function () { var s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://widget.intercom.io/widget/lnixqwsm'; var x = d.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); }; if (document.readyState === 'complete') { l(); } else if (w.attachEvent) { w.attachEvent('onload', l); } else { w.addEventListener('load', l, false); } } })();
+</script>
+</body>
+</html>
